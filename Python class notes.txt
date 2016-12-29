@@ -1,0 +1,31 @@
+Have a brief QandA session regarding todays lecture and Python questions in general
+
+
+The purpose of the group is to teach python to non software people to maximize productivity,
+automate some of their workload and simple data analysis.
+
+Some of the audience can be, finance, economics, business, computationally intensive sciences
+
+Agenda:
+
+What are strings b '', r'', u''
+r-strings or r' '
+regular expression characters should not be interpreted: \n, \t
+Strings are immutable. Once you create a string you can't change/modify it.
+When you modify strings you create new objects
+can use single or double quotes
+astring = "Isn't it cool to learn Python"
+how to use ' '.join()
+
+Purpose of the group is NOT for you to get a job as a software engineer,
+but to be able to apply the knowledge and techniques to add value to your current role.
+
+Python strings are "immutable" which means they cannot be changed after they are created (Java strings also use this immutable style).
+ Since strings can't be changed, we construct *new* strings as we go to represent computed values. So for example the expression ('hello' + 'there') takes in the 2 strings 'hello' and 'there' and builds a new string 'hellothere'.
+
+Atom text editor tutorials[x]
+ REFERENCES:
+ [x] - https://www.youtube.com/watch?v=WWwBQQOGllo&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_
+ [x] - https://www.reddit.com/r/learnpython
+ [x] - http://www.ibm.com/developerworks/library/l-python5/index.html - OLD
+ [x] - https://www.youtube.com/playlist?list=PL3GPxPa8j1HwXiyTAKZKCeGx18sTVCKCg
